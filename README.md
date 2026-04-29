@@ -1,4 +1,10 @@
-# 🎯 Business Roles & Their Objectives + Questions
+# 📊 Project Overview
+
+This project is a comprehensive data analytics using SQL server designed to transform raw sales, customer, product, and logistics data into actionable insights. By integrating multiple datasets—such as orders, customers, products. the project enables stakeholders to monitor performance, identify trends, and make data-driven decisions.
+
+------------------------------------------------------------------------
+
+## 🎯 Business Roles & Their Objectives + Questions
 
 ## 👔 1. Sales Manager
 
